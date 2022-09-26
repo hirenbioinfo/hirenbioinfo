@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hiren Ghosh</h1>
-<h3 align="center">A passionate Bioinformatician</h3>
+<h1 align="center">Hi there 👋, I'm Hiren Ghosh</h1>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
