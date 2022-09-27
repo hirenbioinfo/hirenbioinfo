@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋 </h1>
 
-- 📫 How to reach me **hiren.ghosh@gmail.com**
+- 📫 I am Hiren Ghosh. Reach me out **hiren.ghosh@gmail.com**
+:point_left:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
