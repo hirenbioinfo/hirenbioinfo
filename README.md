@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋 </h1>
+<h1 align="center">Hi there, I'm Hiren Ghosh 👋 </h1>
+
 
 - 📫 I am Hiren Ghosh. Reach out to me **hiren.ghosh@gmail.com**
 :point_left:
