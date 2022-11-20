@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hiren Ghosh 👋 </h1>
 
 
-- 📫 I am Hiren Ghosh. Reach out to me **hiren.ghosh@gmail.com**
+- 📫 Reach out to me **hiren.ghosh@gmail.com**
 :point_left:
 
 :dna: :computer: :page_facing_up: :dna: :dart:
