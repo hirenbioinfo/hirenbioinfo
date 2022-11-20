@@ -12,6 +12,8 @@
 <a href="https://twitter.com/hirenghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hirenghosh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hiren-ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiren-ghosh" height="30" width="40" /></a>
 <a href="https://fb.com/hiren.ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiren.ghosh" height="30" width="40" /></a>
+ <a href="https://www.researchgate.net/profile/Hiren-Ghosh" target="blank"><img align="center" src="https://github.com/hirenbioinfo/hirenbioinfo/blob/main/ResearchGate_icon_SVG.png" alt="Research gate" height="40" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
