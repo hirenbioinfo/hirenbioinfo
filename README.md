@@ -2,7 +2,7 @@
 
 :dna: :computer: :page_facing_up: :dna: :dart:
 
-- 👋 I'm Hiren Ghosh, Bioinformatician based in Germany 🇩🇪. I'm passionate about Data Science and Data Engineering, I specialize in genomic data analysis, biological data visualization, and algorithm development for bioinformatics applications. I'm fervently working on high-throughput technologies and intelligent, software-driven systems, with keen interests in machine learning and data science. 
+- 👋 I'm Hiren Ghosh, Bioinformatician based in Germany 🇩🇪. I'm passionate about Data Science and Data Engineering, I specialize in genomic data analysis, biological data visualization, and algorithm development for bioinformatics applications. I'm fervently working on high-throughput technologies and with keen interests in machine learning and data science. 
 
 - 🔭 I'm currently working on data-driven bioinformatics projects, involving large-scale NGS data generation, processing and data analysis.
 - 🌱 I'm continually learning and enhancing my skills in big data technologies, cloud computing and machine learning.
