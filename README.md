@@ -3,7 +3,7 @@
 
 <p align="left">
   
-- 🙂I'm Hiren Ghosh, a Bioinformatician based in Freiburg, Germany 🇩🇪. I'm passionate about biomedical data Science and Data Engineering, I specialize in     genomic data analysis, biological data visualization, and algorithm development of various bioinformatics applications. I'm fervently working     on high-throughput technologies and with a keen interest in machine learning and data science. 
+- 🙂 I'm Hiren Ghosh, a Bioinformatician based in Freiburg, Germany 🇩🇪. I'm passionate about biomedical data Science and Data Engineering, I specialize in     genomic data analysis, biological data visualization, and algorithm development of various bioinformatics applications. I'm fervently working     on high-throughput technologies and with a keen interest in machine learning and data science. 
 </p>
 
 - 👨‍💻 I'm currently working on data-driven bioinformatics projects, involving large-scale NGS data generation, processing and data analysis.
