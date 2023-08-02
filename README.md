@@ -8,6 +8,7 @@
 
 - 👨‍💻 I'm currently working on data-driven bioinformatics projects, involving large-scale NGS data generation, processing and data analysis.
 - 🌱 I'm continually learning and enhancing my skills in big data technologies, cloud computing and machine learning.
+- Outside tech, 📸 I love photography, 🎵 music, and 🌴 explore the nature.
 
 :dna: :computer: :page_facing_up: :dna: :dart:
 
